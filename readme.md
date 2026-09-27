@@ -1,6 +1,11 @@
 
-# QMK for 8051
+# QMK for vs11k28a 8051
 
+A work-in-progress fork of [qmk-8051](https://github.com/vuhuycan/qmk-8051/) to truly support the Evision VS11K28A processor family (so long as I don't brick my keyboard).
+
+---
+
+# 8051 QMK original readme
 
 This is a fork of [VIAL QMK](https://github.com/vial-kb/vial-qmk)(which is a fork of the famous [QMK](https://github.com/qmk/qmk_firmware)). 
 
