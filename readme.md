@@ -2,6 +2,8 @@
 # QMK for vs11k28a 8051
 
 A work-in-progress fork of [qmk-8051](https://github.com/vuhuycan/qmk-8051/) to truly support the Evision VS11K28A processor family (so long as I don't brick my keyboard).
+This project also works to get connected VS12L17A LED matrix controllers working.
+Most of the process docs and tests are under `vs11k28a/`.
 
 ---
 
